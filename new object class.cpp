@@ -33,7 +33,7 @@ class management{
         bool flag=false;
         for(auto student:students){
             if(student.getroll_no()==roll_no){
-                cout<<student.getname();
+                cout<<student.getname()<<endl;;
                 flag=true;
                 return;
             }
