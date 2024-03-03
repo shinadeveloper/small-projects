@@ -1,2 +1,2 @@
-# 1st-cpp-project
-this project refers to the making of a student management software 
+# small projects both in cpp and python
+many smaall small projects
